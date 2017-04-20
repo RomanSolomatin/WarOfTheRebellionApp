@@ -1216,493 +1216,600 @@
 "../../../Engine/Content/EngineResources/DefaultTexture.uasset" 1216
 "../../../Engine/Config/Android/AndroidEngine.ini" 1217
 "../../../Engine/Config/IOS/IOSEngine.ini" 1218
-"/Users/AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Shaders/tmp/D151DD40B64332A069A3E8AAB4F1D3FC/0/WorkerOutputOnly.out" 1219
-"/Users/AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Shaders/tmp/D151DD40B64332A069A3E8AAB4F1D3FC/1/WorkerOutputOnly.out" 1220
-"/Users/AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Shaders/tmp/D151DD40B64332A069A3E8AAB4F1D3FC/4/WorkerOutputOnly.out" 1221
-"/Users/AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Shaders/tmp/D151DD40B64332A069A3E8AAB4F1D3FC/3/WorkerOutputOnly.out" 1222
-"/Users/AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Shaders/tmp/D151DD40B64332A069A3E8AAB4F1D3FC/2/WorkerOutputOnly.out" 1223
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 1224
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 1225
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 1226
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 1227
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 1228
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 1229
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 1230
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 1231
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 1232
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 1233
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 1234
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 1235
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 1236
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 1237
-"../../../Engine/Content/EngineResources/AICON-Red.uasset" 1238
-"../../../Engine/Content/EngineResources/AICON-Green.uasset" 1239
-"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/GameplayTags.ini" 1240
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 1241
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 1242
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 1243
-"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/TemplateDefs.ini" 1244
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 1245
-"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/InternationalizationExport.ini" 1246
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 1247
-"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/TranslationPickerSettings.ini" 1248
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" 1249
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1250
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1251
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1252
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1253
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1254
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1255
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1256
-"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1257
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1258
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1259
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1260
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1261
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1262
-"../../../Engine/Content/VREditor/UI/SelectionBarMesh.uasset" 1263
-"../../../Engine/Content/VREditor/UI/CloseButtonMesh.uasset" 1264
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1265
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1266
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1267
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1268
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1269
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1270
-"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1271
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1272
-"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1273
-"../../../Engine/Content/EngineSounds/Master.uasset" 1274
-"../../../Engine/Content/EngineSounds/MasterSubmix.uasset" 1275
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1276
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1277
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1278
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1279
-"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 1280
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1281
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1282
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1283
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1284
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1285
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1286
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1287
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1288
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1289
-"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1290
-"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1291
-"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 1292
-"../../../Engine/Content/EditorResources/RGBTable16x1_AssetViewer.uasset" 1293
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 1294
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 1295
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 1296
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 1297
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 1298
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 1299
-"../../../Engine/Content/Internationalization/icudt53l/numberingSystems.res" 1300
-"../../../Engine/Content/Internationalization/icudt53l/curr/supplementalData.res" 1301
-"../../../Engine/Content/Internationalization/icudt53l/curr/pool.res" 1302
-"../../../Engine/Content/Internationalization/icudt53l/curr/en.res" 1303
-"../../../Engine/Content/Internationalization/icudt53l/curr/root.res" 1304
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1305
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 1306
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 1307
-"../../../Engine/Content/EngineResources/Black.uasset" 1308
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 1309
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 1310
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 1311
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 1312
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 1313
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 1314
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 1315
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 1316
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 1317
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 1318
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 1319
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 1320
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 1321
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 1322
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1323
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1324
-"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 1325
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/5a627529.bin" 1326
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/2657c409.bin" 1327
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/1d5167fa.bin" 1328
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/866581fd.bin" 1329
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/94c5d5a7.bin" 1330
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/8c0e1344.bin" 1331
-"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 1332
-"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 1333
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 1334
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 1335
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 1336
-"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 1337
-"../../../Engine/Content/Internationalization/icudt53l/coll/ucadata.icu" 1338
-"../../../Engine/Content/Internationalization/icudt53l/nfc.nrm" 1339
-"../../../Engine/Content/Internationalization/icudt53l/coll/en_US.res" 1340
-"../../../Engine/Content/Internationalization/icudt53l/coll/en.res" 1341
-"../../../Engine/Content/Internationalization/icudt53l/coll/root.res" 1342
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 1343
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1344
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 1345
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1346
-"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1347
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1348
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1349
-"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1350
-"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1351
-"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1352
-"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 1353
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/4.14/Saved/Config/Mac/SourceControlSettings.ini" 1354
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 1355
-"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/SourceControlSettings.ini" 1356
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1357
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1358
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1359
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1360
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 1361
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1362
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1363
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1364
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1365
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1366
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1367
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1368
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1369
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1370
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1371
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1372
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1373
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1374
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1375
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1376
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1377
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1378
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1379
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/CachedAssetRegistry.bin" 1380
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Maps/MainMenu.umap" 1381
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Maps/MainMenu_BuiltData.uasset" 1382
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/RadiusIndicatorBig.uasset" 1383
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBarSlotAttack.uasset" 1384
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/GalvestonGame.uasset" 1385
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/GalvestonGame2.uasset" 1386
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/SmallCannonCone.uasset" 1387
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Galveston_map_with_plotted_distances_Auto4.uasset" 1388
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/galveston_plotted_points_Auto1.uasset" 1389
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Attack/Galveston_attack_map_no_symbols_Auto1.uasset" 1390
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Attack/Galveston_attack_map_with_key_Auto1.uasset" 1391
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Circle_Auto1.uasset" 1392
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone1_Auto2.uasset" 1393
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone2_Auto1.uasset" 1394
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone2_Auto9.uasset" 1395
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone_Auto2.uasset" 1396
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/TheCone_Auto8.uasset" 1397
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Misc/blank_box_Auto1.uasset" 1398
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Misc/union_solider-04_Auto1.uasset" 1399
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Maps/MainMenu_Auto1.umap" 1400
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Galveston_Auto2.uasset" 1401
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto0.uasset" 1402
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto1.uasset" 1403
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto2.uasset" 1404
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto3.uasset" 1405
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto4.uasset" 1406
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto5.uasset" 1407
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto6.uasset" 1408
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LargeCannonCone_Auto2.uasset" 1409
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto0.uasset" 1410
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto1.uasset" 1411
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto2.uasset" 1412
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto3.uasset" 1413
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto4.uasset" 1414
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto5.uasset" 1415
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto6.uasset" 1416
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto7.uasset" 1417
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto8.uasset" 1418
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto9.uasset" 1419
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/SmallCannonCone_Auto1.uasset" 1420
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/SmallCannonCone_Auto2.uasset" 1421
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/SmallCannonCone_Auto3.uasset" 1422
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto1.uasset" 1423
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto2.uasset" 1424
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto3.uasset" 1425
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto4.uasset" 1426
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto8.uasset" 1427
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack2_Auto1.uasset" 1428
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack2_Auto2.uasset" 1429
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto1.uasset" 1430
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto2.uasset" 1431
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto3.uasset" 1432
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto4.uasset" 1433
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/AttackPhase_Auto1.uasset" 1434
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto1.uasset" 1435
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto2.uasset" 1436
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto3.uasset" 1437
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto4.uasset" 1438
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame_Auto1.uasset" 1439
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Miscellanious/NewWidgetBlueprint_Auto2.uasset" 1440
-"/Users/AustinMack/Desktop/WarOfTheRebellionApp/Saved/Cooked/HTML5/WarOfTheRebellionApp/CookedIniVersion.txt" 1441
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1442
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1443
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/MainMenuWidget.uasset" 1444
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/ButtonImages/start_screen_button_no_text.uasset" 1445
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Welcome_background-resized-2.uasset" 1446
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Gulfcoast/Gulcoast1.uasset" 1447
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-04-2.uasset" 1448
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Galveston.uasset" 1449
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Fonts/Baskerville.uasset" 1450
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Galveston_and_fortifications-01-resized-2.uasset" 1451
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Misc/blank_box.uasset" 1452
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Misc/union_solider-04.uasset" 1453
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/GalvestonExtras/SouthBattery.uasset" 1454
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/GalvestonGame.uasset" 1455
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1456
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GameplayAssets/cannon.uasset" 1457
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GameplayAssets/LargeCannon.uasset" 1458
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBarSlot.uasset" 1459
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ItemDrag.uasset" 1460
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/DraggedItem.uasset" 1461
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/InventorySlot.uasset" 1462
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/cone-2.uasset" 1463
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Miscellanious/Point.uasset" 1464
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/LargeCannonCone.uasset" 1465
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Cone1.uasset" 1466
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/TextBox.uasset" 1467
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/RadiusIndicator.uasset" 1468
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Circle.uasset" 1469
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/FailureDefense.uasset" 1470
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/HowItHappened.uasset" 1471
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Galveston_map_with_plotted_distances.uasset" 1472
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/GalvestonGame3.uasset" 1473
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBarSlotAttack2.uasset" 1474
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Attack/Galveston_attack_map_no_symbols.uasset" 1475
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/SuceedDefense.uasset" 1476
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Uniforms.uasset" 1477
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Uniforms-resized.uasset" 1478
-"../../../Engine/Content/Maps/Entry.umap" 1479
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1480
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1481
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1482
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1483
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1484
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1485
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1486
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1487
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1488
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1489
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1490
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1491
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1492
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1493
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1494
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1495
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1496
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1497
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1498
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1499
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1500
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1501
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1502
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1503
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1504
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1505
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1506
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 1507
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1508
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1509
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1510
-"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 1511
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1512
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1513
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1514
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1515
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1516
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 1517
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1518
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1519
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C45F0F7D439FAD52041B1EBC5A8A1__9908241BD20DF14A6AE05F8E6CA9BBBE24B07AB6.udd" 1520
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__FBBDD204E59CC3E3C9749161169905E65779DA9A.udd" 1521
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__D3B9066E064FF8485C582FA787D958A7AE111964.udd" 1522
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__5D8E67CBA0F04E790BD64833DFE9997DDB1D33F0.udd" 1523
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__A862D430A5BD3851806098886F46A0DB4C02712D.udd" 1524
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__DD3D508F2B287118D83B2811676DC879755E7F88.udd" 1525
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__EC69846C8DD084F28BBD11A348C2B577D88F8262.udd" 1526
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__1423AB5FD021F7D2A063652CBFD2D5D24334CF57.udd" 1527
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__F781C0B0C2693BF17FB27AC24C523D4AD3350E86.udd" 1528
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__1AC1C47CE01BB3791E07B3F37B4DEBBD29C103E3.udd" 1529
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_15564967414184874DBCB89C44D5959C__BA34306FE8A99B5C640F036EF7E052585535A66C.udd" 1530
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_15564967414184874DBCB89C44D5959C__02B54665C520D91F5F701748C4780F8A6005FD33.udd" 1531
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09053A42486F57C671A2B9B0F6272__7081BA232D94CF58FB5C793F5EA542CA762D0E8E.udd" 1532
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B07BB94C4024838454154883B7876__59CB28ED8FB21C25306FDB3AEC6027252B011A56.udd" 1533
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C13BD2BB45C48968C13E6F8322E0CF1A_0__A856BDB1C74F641C3E5A497386077ABA922667E4.udd" 1534
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__1940100ED7FE7DC3EED6E16F9F134F6E81409306.udd" 1535
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__B9BDCC7378EB45072EBCB55FFFB0C4A48308D7E5.udd" 1536
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__766BBFDFA27238FECA08A5CC5742B7CF74DCCCC9.udd" 1537
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__1A050F21870E8B7FB2544A1F129FE5557DA8D861.udd" 1538
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__EFCB5491809581847D2C496FF3482BCB39BA6C7A.udd" 1539
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__F6BB0973D8DBFFF61AC847513D5420B02DEBFB2C.udd" 1540
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__6D715C861504BCA257A408C83FD53A9315032A77.udd" 1541
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__DBBCB0922033BC8A107E20CDFF09806D291708AE.udd" 1542
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__D0FFE40F336450DC835BD3BEBA2A4599CC6611B8.udd" 1543
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1544
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_001F44A84F16871A324A52A5F4204698_0__65DAE9540D527BA6F6CF3B820941BAF10C7A00D9.udd" 1545
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__7E39D787895710F32C9EA1804C6D2046DE5EF4B3.udd" 1546
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__11AFEE9D95ABE9A441D0131E98CFA5E4BFC70D66.udd" 1547
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__BC989D96BA3BA9DDCF6EA8CAC7D1AF5E162499E7.udd" 1548
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__F8DA0EA25CA0CA684E77212A6E93CD808264E675.udd" 1549
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA16F_302C0230424A3BBEAED89681B88CB__8CDE60C1EDC58C53BF2C959285BD1C1422AD90D2.udd" 1550
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__581C558B12F92DA8D70F4F628DF65CDCF5AECBC8.udd" 1551
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__60C01A3D2DE5A93AFF7EF8C568AEB262FC04DA19.udd" 1552
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__0DEE01AFDCD63EDCE050864E9B2048808D3D7B82.udd" 1553
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BC0404946D77A8C093A10AE0677E__AFBD176B0024CACEDD89C5FD04DBA1FA2128794D.udd" 1554
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BC0404946D77A8C093A10AE0677E__A1D8A03E2549AA9BBB14D25D58C22DB5DF625B64.udd" 1555
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1EC0B18B47E75959952584B5D8D9E__61476F8F01150CA0879C3ACC7FFBE61559C32272.udd" 1556
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3D7D3365419CADDBF5E531B12CF16__2D210BC742A9A071850B8696B3B5F3BFB91FB2AC.udd" 1557
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3CAC1F094FB87A98E53D7D8A24643__0ADB52FC1C87E64467B7229C368AA2DCF86DFE5B.udd" 1558
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_33CBEF834D7D60ED9D58E5940B7B2__09AEB2AC23FA45423CA92F569A7187888552681E.udd" 1559
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_CBF5B13548AB62E6A9ADA387D1FEB__4A9FB5D124DCA445BD27564DB3B0A06172F0D4A8.udd" 1560
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E38B68B34F759D23C6E5CD925E4D1__24693E2BCBEB7164B3FBD7F012A1856992CF6BAC.udd" 1561
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E55F8197440DD2855E7F4D9816C88__4B98C29CAB8DC3858D2FD1924BF032569B0064F4.udd" 1562
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A6C0C4B74D09BE1A7E2C31B7CA775__8240F4F76015DBCE4BBDAE52B1233C28F14FBA6D.udd" 1563
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D98C11E41884B4A67A497A07B028__D056AE9858611F8551086C386BCEE9909E137C18.udd" 1564
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_74A80EB64112E46096AE17A812C2E__E433C23A316779D3C7021F55A16B60C3D3A3BD33.udd" 1565
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_264ABDF14257816FFA9477A6F6A19__303B98F4E304FB93C820CBC3D56044C65F0B73B1.udd" 1566
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_025102BB43BBEAC3F075788919382__7E08700D2950C4E78762A07B2EC79F112D9FC152.udd" 1567
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C55865344733442FBAD7D29E0B657__FFD7EA1B74583C7B5E036A22683727F92263078B.udd" 1568
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A6029554EC6CEDCFFC9E0836D465__15055B7217D64E5B0C68FF0F1248D0C8B2998C2C.udd" 1569
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1570
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8EDAF7A54E378800FEB2178634331__D89B4B727EE1E1D9A987D925955029B933591292.udd" 1571
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_C349D2FA2A30FC1134357D3272F2DC90__9CAE132C99390C163EA7822A81369E3926FE8834.udd" 1572
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_584A79B6465982423406428F0D776__7E8A800BE546D16101C11CDEE1840BBEF21B464F.udd" 1573
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_584A79B6465982423406428F0D776__61F5CC0CCE5D9CD95B83AA1CB53B0B5FE41AC847.udd" 1574
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__7BA33EC7187D56264DE83DF9D074BF06C46EB7D8.udd" 1575
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__23B11D0C14DC5B9C0C0D81B28ED055E07DD24DBD.udd" 1576
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__87E57DDE6EEE045F0A3F4444DC7E5DDBEB9DA85E.udd" 1577
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__8A675B9A7E86ED55344E993623F4FE067048B76B.udd" 1578
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_1C2B54F74EBDC3C23B1A0B85D55D159C_0__2E2A404ABA0B1D38FA0F8DFA476C0ECE606A40A4.udd" 1579
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B1F6A23D46761DA1743FBE984F9E8__A7029B9659C79ED952199638E34300F568BEC77C.udd" 1580
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_95D01D314436990422EF30A4E4FA2__A0EA230C82B6516917DBF6AD6916F36C2FF78A30.udd" 1581
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_95D01D314436990422EF30A4E4FA2__E2300CE8A9419ECFFDE837D77935F89934CEF43F.udd" 1582
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D6E3D441D495650966A0DAB9C25D__C335F49B6841B356FC19ECEB030D0D9865C642CE.udd" 1583
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_0F9C5379C94229C4B7F2A9A1F3010CB__C9EDC24A2AB506E832B2EC8B05E9FE54A10A04E1.udd" 1584
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1585
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__12CC74A7FD084DC5C96ADD95B3C1B5D07F3EA75C.udd" 1586
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__449C61C38D35E6152D40F0C16F230ECC2E23BCF8.udd" 1587
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__B606B2F565A5A77F7F06349C41A955A7AAC7CE53.udd" 1588
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A00F1654C244F95E8B15E9A15BE5__9F6FE039175A88CA1E577272AF00572DA13D0688.udd" 1589
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__F949E4B3D838BDCB34985AA09A06B8738A445AB5.udd" 1590
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__8945277941692C5A22D79C1A7D9B477B8846D045.udd" 1591
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__6C2CA7981AAE3BB88E80EDB6A8D74338EC182B8A.udd" 1592
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__D2A687F2C18FB52AE2E1EEDB04C9C77170CD0FC3.udd" 1593
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__BBE6AC1ADE65EE988161E1412C57E3F88174E6E2.udd" 1594
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__00BD96E3D4B0209194F30AC4FF54B8401CAFEB15.udd" 1595
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__D4A89CA09F54473C731C25FAB8E0491229BB809A.udd" 1596
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__D15C98456623C6C3BCC0ECDFC5974B6BDD0D448E.udd" 1597
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 1598
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1599
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1600
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 1601
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 1602
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1603
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1604
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1605
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1606
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1607
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1608
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1609
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1610
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1611
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1612
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1613
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1614
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1615
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1616
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1617
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__1505695EACEF450B2360F157025789324808F0DA.udd" 1618
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__19C07A42E8FFF97ABC69C34699A576D945BD4355.udd" 1619
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__13B1A9B7BAD5E041E94F1297BAC2994831BCC747.udd" 1620
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__47F65D18336D505959807819EE470740C5B0779E.udd" 1621
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__79EA3066C05F876B5B83AAF3F2792679C0B0BD18.udd" 1622
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__A0C5FAA70C9D1F7FBDCF20FBA9C2B95CACCFBAC6.udd" 1623
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__7E6587768D291C2DD39DBF683F7B093F6EEEA5B0.udd" 1624
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__9209AC813937D05A33648E084F51F5CDEDFAA6F7.udd" 1625
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__9024C3FF7AA8FAC8E5F28E06510B42EAEFCD0F19.udd" 1626
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__389E3E4629443564C58A30B0EE957E4A834EE893.udd" 1627
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__3DBDECE29606A698D5C4A0999706EDB1D150A05A.udd" 1628
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__10B419121147129CD66800CC97EDE0AD2FF2BC3B.udd" 1629
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__728CB71FAFD2E4C073DBD859949037CB00598117.udd" 1630
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1631
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1632
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 1633
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 1634
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 1635
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1636
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C200B7694C3FE53EBCE97592F5F41__DD39719A926D99A62CA71ADAF4DFF27A49AEF98C.udd" 1637
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1638
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C49FDA8C4EFE04B87EBA5CB5A57D2__068B523AE52B2D61E14EDFB3764754121E26AA52.udd" 1639
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1640
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_80A9E59646847B4846ED6DAF42DFE__5B70D57A8D534632E772B83FEBF7B027FF5B8388.udd" 1641
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_80A9E59646847B4846ED6DAF42DFE__308ACB6CF9A852BC5B9B8DC8909BB87E9FB70BD3.udd" 1642
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1643
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D5542AFE4886708885DF42B1BE8F6__E8E1BDB0D057288DAED17D58CD776918028D2DCF.udd" 1644
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1645
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D5542AFE4886708885DF42B1BE8F6__E1EF18F9937084B0C07D23A905483B754F02B379.udd" 1646
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BBBF743419EE004ACC16E9959BCC__756112131578C37DFF9953878E2BB3763ED27608.udd" 1647
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1648
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5FF2868842E6DED8A4C0CB8217190__C44A22A45D6E1E0CCC23391DA16ECB5C18F2849C.udd" 1649
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1650
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1651
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2E1EE3B14D43A62B84881B8F5AAD2__BB99884E9A5449D24496CD2D2CB314E5330C09E0.udd" 1652
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1653
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__BD16FC101E1BD76B745E50F5F0797E81521ECE50.udd" 1654
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1655
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__750E7BCF3B0A4D07B3E732ACF4661AE1B9FDC2C2.udd" 1656
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__DC3244ED1DA22A9DFBF8BB794FFE6F9D436D1D74.udd" 1657
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__0D4C4BDB3A0A12F9E8F8362AC007EA958A932054.udd" 1658
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__7741C2B795775BFA3104662CBC48EFE5FD9B7782.udd" 1659
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__CE9E8C2753F09B87FABEC48764BCDF5C0418506D.udd" 1660
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__B5858B18ACEB8D7AEB6A29EACA75015ECEE0FAB6.udd" 1661
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Gulfcoast/Gulfcoast2.uasset" 1662
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__B6179C1D92F62425940B03B442B5BB2F36D1378A.udd" 1663
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-07-3.uasset" 1664
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_06A04135044DBC5009E3158DFC8C7__6A34EF2A2D664FF97754403CC591869C019ACC0B.udd" 1665
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/AttackPhase2.uasset" 1666
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/AttackPhase.uasset" 1667
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/ToEndTheGame.uasset" 1668
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/Conclusion.uasset" 1669
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Conclusion_background-resized-2.uasset" 1670
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/SuceedAttack.uasset" 1671
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/FailureAttack.uasset" 1672
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/WidgetDrag.uasset" 1673
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/Rotation.uasset" 1674
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/Inventory.uasset" 1675
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/HUD.uasset" 1676
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBar.uasset" 1677
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/SmallCannonCone.uasset" 1678
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/SabinePass.uasset" 1679
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Sabine-Pass_map-01-resized-2.uasset" 1680
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/LongCone.uasset" 1681
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/LargeCannonCone.uasset" 1682
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/EvaluationScreen.uasset" 1683
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Maps/Galveston.umap" 1684
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Equipment-01-resized.uasset" 1685
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-07-2.uasset" 1686
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/gulfcoast.uasset" 1687
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-03-2.uasset" 1688
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-00-2.uasset" 1689
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/TheCone.uasset" 1690
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_BFBE14C53F4B257D12CB5EBF4EECB__9EC786ED0D84E3C31374FF0360F07EB0A07198CC.udd" 1691
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/shortCone.uasset" 1692
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Cone2.uasset" 1693
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Cone.uasset" 1694
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EBD14CB12F4338A7FCBE6F903C987__1B869A4DD547ADAA9AEF82906342E9403BAC3FBA.udd" 1695
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/ButtonImages/start_screen_button_with_text-01.uasset" 1696
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Attack/Galveston_attack_map_with_key.uasset" 1697
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/galveston_plotted_points.uasset" 1698
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_549FF2B3ED4832939DAC5BB5D7D90__D7265F73FEFE46F3684C15B54CB56FEA80ACB922.udd" 1699
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1700
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1701
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__536E815204A7A55A1C3DC28912842A9998DC951D.udd" 1702
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__A885F07B0952CD16CE13DADC3D75FAA72804CE9A.udd" 1703
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__E711B9F5E3FE93BF616817FF2150AFFDB1723C2E.udd" 1704
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1705
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3F3B1DD44FE006226A690596DBDDE__A8F0AA4345DA63B02C5E76E8CDD15A76D906C9DE.udd" 1706
-"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3F3B1DD44FE006226A690596DBDDE__124F7D8D2718E263E1691CDD9F88C4222659C194.udd" 1707
-"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Collections/PackagesRemovedFromChunk0.collection" 1708
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/7/1/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__74635938AC96791711B0578521EDE80E2274DFBD.udd" 1219
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/4/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__51C1EFE5285DF045C2E1C5C4C138CC78F10BCB59.udd" 1220
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/3/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__361BF3814F8E52C69803B215B81351B9939F9DB4.udd" 1221
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/7/4/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__DB372B81B5653C31722435CFDEAB2893C0AA8E6B.udd" 1222
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/5/0/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__28E0B2341B8C1FF79969CB553A97A74ADA93C80E.udd" 1223
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/7/4/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__A0CDB039AC489CBD0C5F7773F2A067573B3A2868.udd" 1224
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 1225
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 1226
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/6/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__B39FBC63BBFF989E70E5806773131BB82C3F08A1.udd" 1227
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 1228
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/7/9/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__2CB38C52842B36C45766D98D2C01EBA977E8B413.udd" 1229
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 1230
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/5/4/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__FD630BDAC5F312EDD18193863CABDC358C5F1E7F.udd" 1231
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 1232
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/2/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__DCCB7B596DEB065276B7F55682DE1B74397A76CF.udd" 1233
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 1234
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 1235
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 1236
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 1237
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/0/9/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__EBD1BC3580AF0D1C6C3D0E40E1276FF1224669EC.udd" 1238
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 1239
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 1240
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 1241
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 1242
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 1243
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 1244
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 1245
+"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/GameplayTags.ini" 1246
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 1247
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 1248
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 1249
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/7/0/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__822AD5BE56F502CD337BD4762D02FC7FD191A753.udd" 1250
+"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/TemplateDefs.ini" 1251
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 1252
+"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/InternationalizationExport.ini" 1253
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 1254
+"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/TranslationPickerSettings.ini" 1255
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini" 1256
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 1257
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 1258
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/0/2/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__9E4EE72B9895A24FCDDF212BF9E864884C09AB91.udd" 1259
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 1260
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/1/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__5453A6B829CAA0C19B45CCECE87F55D1BF65A062.udd" 1261
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 1262
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateHandleLong.uasset" 1263
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 1264
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 1265
+"../../../Engine/Content/VREditor/TransformGizmo/StretchingHandle.uasset" 1266
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 1267
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 1268
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 1269
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 1270
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 1271
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/3/3/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__00FAB0FCF03F5699B1AE701185A8FF9152BA1381.udd" 1272
+"../../../Engine/Content/VREditor/UI/SelectionBarMesh.uasset" 1273
+"../../../Engine/Content/VREditor/UI/CloseButtonMesh.uasset" 1274
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 1275
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 1276
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/8/0/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__1A0565173FF202878E234FF2339DF245976C4B18.udd" 1277
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 1278
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 1279
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 1280
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/0/5/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__B6E27038BB88775B2FEF5506FA632F63A76E886A.udd" 1281
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 1282
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/1/2/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__847803B99560D593A5709544CF18E49BCD6CCDFA.udd" 1283
+"../../../Engine/Content/VREditor/TransformGizmo/TranslationHandle.uasset" 1284
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandle.uasset" 1285
+"../../../Engine/Content/VREditor/Sounds/VR_teleport_Cue.uasset" 1286
+"../../../Engine/Content/EngineSounds/Master.uasset" 1287
+"../../../Engine/Content/EngineSounds/MasterSubmix.uasset" 1288
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 1289
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 1290
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 1291
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/4/3/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__D60DCB908A0BE762C9D60A021D9FC5482E0C7E10.udd" 1292
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 1293
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 1294
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1295
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/0/1/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__9B2AFDAB7FDA5D776EA3071594A440A45ED36C86.udd" 1296
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 1297
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 1298
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/6/2/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__3EF7BCE8A640F08687161B2BB8A96A7CAEDF78F4.udd" 1299
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 1300
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 1301
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/2/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__9E38B988579A85BDF003D7996B3605B271F941FB.udd" 1302
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 1303
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/9/3/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__C300E96DCB8B4CE832841BCF58A1271249DAF7F1.udd" 1304
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 1305
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 1306
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1307
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/7/5/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__079E55FAE02F97ED79150C28F52ABA8C787421CB.udd" 1308
+"../../../Engine/Content/VREditor/Sounds/VR_grab_Cue.uasset" 1309
+"../../../Engine/Content/VREditor/Sounds/VR_grab.uasset" 1310
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 1311
+"../../../Engine/Content/EditorResources/RGBTable16x1_AssetViewer.uasset" 1312
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 1313
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 1314
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 1315
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 1316
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 1317
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 1318
+"../../../Engine/Content/Internationalization/icudt53l/numberingSystems.res" 1319
+"../../../Engine/Content/Internationalization/icudt53l/curr/supplementalData.res" 1320
+"../../../Engine/Content/Internationalization/icudt53l/curr/pool.res" 1321
+"../../../Engine/Content/Internationalization/icudt53l/curr/en.res" 1322
+"../../../Engine/Content/Internationalization/icudt53l/curr/root.res" 1323
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1324
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 1325
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 1326
+"../../../Engine/Content/EngineResources/Black.uasset" 1327
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 1328
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 1329
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 1330
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 1331
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 1332
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 1333
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 1334
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 1335
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 1336
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 1337
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 1338
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 1339
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 1340
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 1341
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1342
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1343
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/2/6/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__6E72DA6A64D6F0EFE1FCA7F48E720ACA57140D78.udd" 1344
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 1345
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/5a627529.bin" 1346
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/2657c409.bin" 1347
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/1d5167fa.bin" 1348
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/866581fd.bin" 1349
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/94c5d5a7.bin" 1350
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/AssetRegistryCache/8c0e1344.bin" 1351
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 1352
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 1353
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 1354
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 1355
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 1356
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 1357
+"../../../Engine/Content/Internationalization/icudt53l/coll/ucadata.icu" 1358
+"../../../Engine/Content/Internationalization/icudt53l/nfc.nrm" 1359
+"../../../Engine/Content/Internationalization/icudt53l/coll/en_US.res" 1360
+"../../../Engine/Content/Internationalization/icudt53l/coll/en.res" 1361
+"../../../Engine/Content/Internationalization/icudt53l/coll/root.res" 1362
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 1363
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1364
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 1365
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1366
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1367
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1368
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1369
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1370
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/0/4/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__1BB13A7CB2AE2D5A4FBE651FCE06B4CBC1CE59F2.udd" 1371
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1372
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/4/0/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__46E4924F7E4E07533FE831A89C816A951A4F3E7A.udd" 1373
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1374
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 1375
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/4.14/Saved/Config/Mac/SourceControlSettings.ini" 1376
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 1377
+"/Users/AustinMack/Library/Preferences/Unreal Engine/WarOfTheRebellionAppEditor/Mac/SourceControlSettings.ini" 1378
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1379
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/0/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__267E3CCF989EA87B0988BB09E794454A2EC92A31.udd" 1380
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1381
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/8/3/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__625E0ADFF82A9669EB7A3199E0FA25F08F39B531.udd" 1382
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1383
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1384
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/9/5/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__9B81E5120E844C2919AD398EFD41380E36723132.udd" 1385
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 1386
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/1/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__01C7982D91F1A63C60E0F8129CEFA1679E74775E.udd" 1387
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1388
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/8/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__17FB8F10FF55DE0B04AABC633686B9F44797F3CB.udd" 1389
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1390
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1391
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1392
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1393
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1394
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1395
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1396
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 1397
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1398
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1399
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1400
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1401
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1402
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1403
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1404
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1405
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1406
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Intermediate/CachedAssetRegistry.bin" 1407
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/GalvestonGame.uasset" 1408
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Galveston_attack_map_with_key-scenario-02_Auto2.uasset" 1409
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Galveston_defense_map_with_key-02_Auto1.uasset" 1410
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Galveston_map_with_plotted_distances_Auto4.uasset" 1411
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/galveston_plotted_points_Auto1.uasset" 1412
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Attack/Galveston_attack_map_no_symbols_Auto1.uasset" 1413
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Attack/Galveston_attack_map_with_key_Auto1.uasset" 1414
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/BigAngleCone_Auto2.uasset" 1415
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Circle_Auto1.uasset" 1416
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone1_Auto2.uasset" 1417
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone2_Auto1.uasset" 1418
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone2_Auto9.uasset" 1419
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/Cone_Auto2.uasset" 1420
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Cones/TheCone_Auto8.uasset" 1421
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Misc/blank_box_Auto1.uasset" 1422
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Misc/union_solider-04_Auto1.uasset" 1423
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Images/Scouts/cavalry-horse_Auto1.uasset" 1424
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Maps/MainMenu_Auto1.umap" 1425
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Galveston_Auto2.uasset" 1426
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto0.uasset" 1427
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto1.uasset" 1428
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto2.uasset" 1429
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto3.uasset" 1430
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto4.uasset" 1431
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto5.uasset" 1432
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/GalvestonGame_Auto6.uasset" 1433
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LargeCannonCone_Auto2.uasset" 1434
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto0.uasset" 1435
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto1.uasset" 1436
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto2.uasset" 1437
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto3.uasset" 1438
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto4.uasset" 1439
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto5.uasset" 1440
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto6.uasset" 1441
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto7.uasset" 1442
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto8.uasset" 1443
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/LongCone2_Auto9.uasset" 1444
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/SmallCannonCone_Auto1.uasset" 1445
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/SmallCannonCone_Auto2.uasset" 1446
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/SmallCannonCone_Auto3.uasset" 1447
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto1.uasset" 1448
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto2.uasset" 1449
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto3.uasset" 1450
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto4.uasset" 1451
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlot_Auto8.uasset" 1452
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack2_Auto1.uasset" 1453
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack2_Auto2.uasset" 1454
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto1.uasset" 1455
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto2.uasset" 1456
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto3.uasset" 1457
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/DragAndDrop/ActionBarSlotAttack_Auto4.uasset" 1458
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/AttackPhase_Auto1.uasset" 1459
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto1.uasset" 1460
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto2.uasset" 1461
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto3.uasset" 1462
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame2_Auto4.uasset" 1463
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame3_Auto1.uasset" 1464
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame3_Auto2.uasset" 1465
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/GalvestonGame_Auto1.uasset" 1466
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Games/LargeCannonCone_Auto1.uasset" 1467
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Autosaves/Game/Widgets/Miscellanious/NewWidgetBlueprint_Auto2.uasset" 1468
+"/Users/AustinMack/Desktop/WarOfTheRebellionApp/Saved/Cooked/HTML5/WarOfTheRebellionApp/CookedIniVersion.txt" 1469
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/7/3/GSM_96B578BEE72B4D52A11B36DBAD651AE0_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_SL___53059601C0A660799BB54039D75A2FDFD1C0D5EB.udd" 1470
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1471
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1472
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_2303080240B4FBC995EC43ABAA9A8C6__E24BE315BC7E38AAC851A0D9B18BDF6554E250F9.udd" 1473
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Maps/MainMenu.umap" 1474
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Maps/MainMenu_BuiltData.uasset" 1475
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/MainMenuWidget.uasset" 1476
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/ButtonImages/start_screen_button_no_text.uasset" 1477
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Welcome_background-resized-2.uasset" 1478
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Gulfcoast/Gulcoast1.uasset" 1479
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-04-2.uasset" 1480
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Galveston.uasset" 1481
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Fonts/Baskerville.uasset" 1482
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Galveston_and_fortifications-01-resized-2.uasset" 1483
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Misc/blank_box.uasset" 1484
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Misc/union_solider-04.uasset" 1485
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/GalvestonExtras/SouthBattery.uasset" 1486
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBarSlot.uasset" 1487
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ItemDrag.uasset" 1488
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/DraggedItem.uasset" 1489
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/InventorySlot.uasset" 1490
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/cone-2.uasset" 1491
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Miscellanious/Point.uasset" 1492
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/LargeCannonCone.uasset" 1493
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/BigAngleCone.uasset" 1494
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/TextBox.uasset" 1495
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/RadiusIndicator.uasset" 1496
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Circle.uasset" 1497
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1498
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/FailureDefense.uasset" 1499
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/HowItHappened.uasset" 1500
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Galveston_map_with_plotted_distances.uasset" 1501
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/GalvestonGame2.uasset" 1502
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBarSlotAttack.uasset" 1503
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/SmallCannonCone.uasset" 1504
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Cone1.uasset" 1505
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/RadiusIndicatorBig.uasset" 1506
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/GalvestonGame3.uasset" 1507
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBarSlotAttack2.uasset" 1508
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/FailureAttack.uasset" 1509
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/ToEndTheGame.uasset" 1510
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/Conclusion.uasset" 1511
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Conclusion_background-resized-2.uasset" 1512
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/SuceedAttack.uasset" 1513
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Galveston_attack_map_with_key-scenario-02.uasset" 1514
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Scouts/scout.uasset" 1515
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Attack/Galveston_attack_map_no_symbols.uasset" 1516
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GameplayAssets/cannon.uasset" 1517
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GameplayAssets/LargeCannon.uasset" 1518
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Evaluation/SuceedDefense.uasset" 1519
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Galveston_defense_map_with_key-02.uasset" 1520
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Uniforms.uasset" 1521
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Uniforms-resized.uasset" 1522
+"../../../Engine/Content/Maps/Entry.umap" 1523
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1524
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1525
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/2/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__5E140B57A8147E6B2136B693D3CD040E424C032C.udd" 1526
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1527
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1528
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/9/8/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__6F566DE344B055337FAF102A909AC3F940939016.udd" 1529
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1530
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1531
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/4/8/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__4548E03A21E7C90D6004F6231D776EEFAE53B2C9.udd" 1532
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1533
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/6/1/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__813ABC262575EAF15C7F86CCE555A38835487B13.udd" 1534
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1535
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1536
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1537
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1538
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1539
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1540
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1541
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/5/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__3C9FFB7F8B4A3EFD05DA72F6B62E83B963C6EE3A.udd" 1542
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/8/2/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__000EFF813D017B04D2A75C8B4C9080CBB8A3E73E.udd" 1543
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/7/8/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__2870E4AF83383ABE02812C3B7FFA8C4FB1FC42DA.udd" 1544
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/4/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__76872E564D7FFB61F5C00E40D407FE5C59441168.udd" 1545
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/1/7/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__76958B83D4F2D2A27F2E375CD235C9C09CF8BC7C.udd" 1546
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1547
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1548
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 1549
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 1550
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 1551
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 1552
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 1553
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1554
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1555
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1556
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1557
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1558
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1559
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 1560
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1561
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 1562
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1563
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 1564
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1565
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1566
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 1567
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1568
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1569
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 1570
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1571
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1572
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C45F0F7D439FAD52041B1EBC5A8A1__9908241BD20DF14A6AE05F8E6CA9BBBE24B07AB6.udd" 1573
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__FBBDD204E59CC3E3C9749161169905E65779DA9A.udd" 1574
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__D3B9066E064FF8485C582FA787D958A7AE111964.udd" 1575
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__A862D430A5BD3851806098886F46A0DB4C02712D.udd" 1576
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FDD461EC4EDF5F99C659709B7A42E__5D8E67CBA0F04E790BD64833DFE9997DDB1D33F0.udd" 1577
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT5_565E0359430950FA252A118AF8521636__2EAA8DF17A4A6BDA26F27CE43AFDEEACA0FE4D59.udd" 1578
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT5_565E0359430950FA252A118AF8521636__3A5ED170B54AFC8A67B8289FC3E9EBD65EF14DB6.udd" 1579
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT5_565E0359430950FA252A118AF8521636__2074CC5FEF49050A29DD420D261F012D43FDF3D2.udd" 1580
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__DD3D508F2B287118D83B2811676DC879755E7F88.udd" 1581
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__EC69846C8DD084F28BBD11A348C2B577D88F8262.udd" 1582
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__1423AB5FD021F7D2A063652CBFD2D5D24334CF57.udd" 1583
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__F781C0B0C2693BF17FB27AC24C523D4AD3350E86.udd" 1584
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B21C1AFF42ACD5ADC8C382B3A090A__1AC1C47CE01BB3791E07B3F37B4DEBBD29C103E3.udd" 1585
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_15564967414184874DBCB89C44D5959C__BA34306FE8A99B5C640F036EF7E052585535A66C.udd" 1586
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_15564967414184874DBCB89C44D5959C__02B54665C520D91F5F701748C4780F8A6005FD33.udd" 1587
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_5216118D4EACC7D4064ADCBA89F7720__A6821AAF054EE38EE4AB76FCDE71C091DBB33BE8.udd" 1588
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_5216118D4EACC7D4064ADCBA89F7720__321276360267FAD15F1DA9AA41BAAF1907CBC907.udd" 1589
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09053A42486F57C671A2B9B0F6272__7081BA232D94CF58FB5C793F5EA542CA762D0E8E.udd" 1590
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B07BB94C4024838454154883B7876__59CB28ED8FB21C25306FDB3AEC6027252B011A56.udd" 1591
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C13BD2BB45C48968C13E6F8322E0CF1A_0__A856BDB1C74F641C3E5A497386077ABA922667E4.udd" 1592
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__1940100ED7FE7DC3EED6E16F9F134F6E81409306.udd" 1593
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__B9BDCC7378EB45072EBCB55FFFB0C4A48308D7E5.udd" 1594
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__1A050F21870E8B7FB2544A1F129FE5557DA8D861.udd" 1595
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCC2E3624ECEAC189015CEAD2B2D9__766BBFDFA27238FECA08A5CC5742B7CF74DCCCC9.udd" 1596
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__EFCB5491809581847D2C496FF3482BCB39BA6C7A.udd" 1597
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__DBBCB0922033BC8A107E20CDFF09806D291708AE.udd" 1598
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__F6BB0973D8DBFFF61AC847513D5420B02DEBFB2C.udd" 1599
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__6D715C861504BCA257A408C83FD53A9315032A77.udd" 1600
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C39FA6E1430A3372261C0A90A569A__D0FFE40F336450DC835BD3BEBA2A4599CC6611B8.udd" 1601
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1602
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_9F5B2DF1453DB1272733529F5E95869__9ADC6565887170B0D3E6B96EDBBEA7661DA94857.udd" 1603
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_001F44A84F16871A324A52A5F4204698_0__65DAE9540D527BA6F6CF3B820941BAF10C7A00D9.udd" 1604
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__7E39D787895710F32C9EA1804C6D2046DE5EF4B3.udd" 1605
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/3/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__11AFEE9D95ABE9A441D0131E98CFA5E4BFC70D66.udd" 1606
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__F8DA0EA25CA0CA684E77212A6E93CD808264E675.udd" 1607
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_543C5F164C680DE7B96F3AAE59B3E__BC989D96BA3BA9DDCF6EA8CAC7D1AF5E162499E7.udd" 1608
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA16F_302C0230424A3BBEAED89681B88CB__8CDE60C1EDC58C53BF2C959285BD1C1422AD90D2.udd" 1609
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_2F8A63D9426BC3DF3187A0AFFC2E85D__08E422A67E5C9B4E4B5B133311BA43BFC0E8A093.udd" 1610
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_B19E8D43472CA8B277E8CCA8993996A__AE0CB2D3DAB09AE46189CF339B18FCF6C66AB4C2.udd" 1611
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_056A03A5436F9F05D7AA329082E3874__EAB617237426858197309074CF9C70FED5D33A73.udd" 1612
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__581C558B12F92DA8D70F4F628DF65CDCF5AECBC8.udd" 1613
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__0DEE01AFDCD63EDCE050864E9B2048808D3D7B82.udd" 1614
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_55809E694EE7DB292235CC917A5C5__60C01A3D2DE5A93AFF7EF8C568AEB262FC04DA19.udd" 1615
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BC0404946D77A8C093A10AE0677E__AFBD176B0024CACEDD89C5FD04DBA1FA2128794D.udd" 1616
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BC0404946D77A8C093A10AE0677E__A1D8A03E2549AA9BBB14D25D58C22DB5DF625B64.udd" 1617
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__FFF3E7AA7E0C2CB645CD9310F3C65D81C9256830.udd" 1618
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__820ECE9E7725370C5D441CA39174346F4FE25D38.udd" 1619
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_D0FECEC94BB5E3DA0C23C4AB41A933F__61879D22DE976A78632C450E6A2490C314B8F063.udd" 1620
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_C6F046E346DE53E9987E70930FC6D31__D4169328E2952652C617DBEC1CF9AE765AD7D55D.udd" 1621
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1EC0B18B47E75959952584B5D8D9E__61476F8F01150CA0879C3ACC7FFBE61559C32272.udd" 1622
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/5/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3D7D3365419CADDBF5E531B12CF16__2D210BC742A9A071850B8696B3B5F3BFB91FB2AC.udd" 1623
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3CAC1F094FB87A98E53D7D8A24643__0ADB52FC1C87E64467B7229C368AA2DCF86DFE5B.udd" 1624
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_33CBEF834D7D60ED9D58E5940B7B2__09AEB2AC23FA45423CA92F569A7187888552681E.udd" 1625
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_CBF5B13548AB62E6A9ADA387D1FEB__4A9FB5D124DCA445BD27564DB3B0A06172F0D4A8.udd" 1626
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E38B68B34F759D23C6E5CD925E4D1__24693E2BCBEB7164B3FBD7F012A1856992CF6BAC.udd" 1627
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E55F8197440DD2855E7F4D9816C88__4B98C29CAB8DC3858D2FD1924BF032569B0064F4.udd" 1628
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A6C0C4B74D09BE1A7E2C31B7CA775__8240F4F76015DBCE4BBDAE52B1233C28F14FBA6D.udd" 1629
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7D98C11E41884B4A67A497A07B028__D056AE9858611F8551086C386BCEE9909E137C18.udd" 1630
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_74A80EB64112E46096AE17A812C2E__E433C23A316779D3C7021F55A16B60C3D3A3BD33.udd" 1631
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_264ABDF14257816FFA9477A6F6A19__303B98F4E304FB93C820CBC3D56044C65F0B73B1.udd" 1632
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_025102BB43BBEAC3F075788919382__7E08700D2950C4E78762A07B2EC79F112D9FC152.udd" 1633
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C55865344733442FBAD7D29E0B657__FFD7EA1B74583C7B5E036A22683727F92263078B.udd" 1634
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A6029554EC6CEDCFFC9E0836D465__15055B7217D64E5B0C68FF0F1248D0C8B2998C2C.udd" 1635
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_C349D2FA2A30FC1134357D3272F2DC90__9CAE132C99390C163EA7822A81369E3926FE8834.udd" 1636
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1637
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8EDAF7A54E378800FEB2178634331__D89B4B727EE1E1D9A987D925955029B933591292.udd" 1638
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_4FCFE7AC4BB0792204B58EA6C32D317__1065408AB085752A4A7B14FBE2C223106CAAF114.udd" 1639
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_584A79B6465982423406428F0D776__7E8A800BE546D16101C11CDEE1840BBEF21B464F.udd" 1640
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_584A79B6465982423406428F0D776__61F5CC0CCE5D9CD95B83AA1CB53B0B5FE41AC847.udd" 1641
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__7BA33EC7187D56264DE83DF9D074BF06C46EB7D8.udd" 1642
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__23B11D0C14DC5B9C0C0D81B28ED055E07DD24DBD.udd" 1643
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__87E57DDE6EEE045F0A3F4444DC7E5DDBEB9DA85E.udd" 1644
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5075C5404C9665C57F66B49F2C5D8__8A675B9A7E86ED55344E993623F4FE067048B76B.udd" 1645
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_1C2B54F74EBDC3C23B1A0B85D55D159C_0__2E2A404ABA0B1D38FA0F8DFA476C0ECE606A40A4.udd" 1646
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_52C2D2044F80407BBABA8CB2BA04F4F__F22C743AB964E641C41379729928860D66300954.udd" 1647
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_A28EC0C4486158C85466808599E49A4__6B6B1F03978C7592BE36BBD51C67575968A886AC.udd" 1648
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B1F6A23D46761DA1743FBE984F9E8__A7029B9659C79ED952199638E34300F568BEC77C.udd" 1649
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/6/0/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_9B0249994A9B1B14D96CD7BB7A90FB3__2D25E4C8B7A814FC6F8799F222CAFCC8196B1CB9.udd" 1650
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_95D01D314436990422EF30A4E4FA2__A0EA230C82B6516917DBF6AD6916F36C2FF78A30.udd" 1651
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_95D01D314436990422EF30A4E4FA2__E2300CE8A9419ECFFDE837D77935F89934CEF43F.udd" 1652
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_4EB09EAE5F46D207807CAEAF7780A14__29775DCC3281B5BCF21BA3654CC6BACA6257B205.udd" 1653
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_65DD6F75634B9EE492C45D81C524A8E__56D097050582619A53822473B4BD6A321ABC4995.udd" 1654
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_01FC1A5E0645C361EB49DB8FA0762F2__920BE3A0D7139CB304A684CB2463082DB37BCC7B.udd" 1655
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D6E3D441D495650966A0DAB9C25D__C335F49B6841B356FC19ECEB030D0D9865C642CE.udd" 1656
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_C50B2517A04222C583C0D29A9B6712B__4064B80BD539D26A4C24B622E37239C894C180F5.udd" 1657
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_8BF644E0314D6C7ED57A8AA9B1A4144__8363D99A5EC9E731EC686A31C362AB7C520548BA.udd" 1658
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1659
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__12CC74A7FD084DC5C96ADD95B3C1B5D07F3EA75C.udd" 1660
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__449C61C38D35E6152D40F0C16F230ECC2E23BCF8.udd" 1661
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C9D41DBE4C754F8B430E7DBADCD48__B606B2F565A5A77F7F06349C41A955A7AAC7CE53.udd" 1662
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_18154CFBF84ADE686B4230B45079221__8F1115C23D403529196D738A6D9171FAA76D8794.udd" 1663
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_4473F7CA0343CDA9B35E0BAC589298B__19AD7C3B36E38E4F1C72C2D3D4D66A4071951BFE.udd" 1664
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_C41EEA5F304D5A5E9F38FF9E4616610__315468D1413495990BC863AACFD85F592E8B7E6A.udd" 1665
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_274911EF654E6B578B7DD586215A92D__8B40E51822FAFABFA7E869589C906963ABDCC6DE.udd" 1666
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_1796329D6C4693702D7189BEE08DA1F__B14FB01B04B7CD913B57D34E4A32B3E3620C5926.udd" 1667
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_BE3377603C4271A4EDAC239621A6A37__037A5F218F4FEAB57D9FCC87B1786FC699DF88D2.udd" 1668
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_0F9C5379C94229C4B7F2A9A1F3010CB__C9EDC24A2AB506E832B2EC8B05E9FE54A10A04E1.udd" 1669
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_8BEE787526408DEE7B4506BE8380F67__A42B706A4BCA25BE6727CF9E1B39DE5321F6BFE3.udd" 1670
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_6A00F1654C244F95E8B15E9A15BE5__9F6FE039175A88CA1E577272AF00572DA13D0688.udd" 1671
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_300F91D746B84377794E1FA74622CC3__D79E55A197FCE327ACA0E0F87B0EA6C56FB93ABA.udd" 1672
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_300F91D746B84377794E1FA74622CC3__B1B59436675350B06FA23781AC903CD75C466F90.udd" 1673
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_300F91D746B84377794E1FA74622CC3__CC7C8A7057F9031E48303260BB375340D1472DAE.udd" 1674
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_300F91D746B84377794E1FA74622CC3__877876972AA8B6980AF42CBDFF281B7DB9D686F1.udd" 1675
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__F949E4B3D838BDCB34985AA09A06B8738A445AB5.udd" 1676
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__8945277941692C5A22D79C1A7D9B477B8846D045.udd" 1677
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__6C2CA7981AAE3BB88E80EDB6A8D74338EC182B8A.udd" 1678
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_EFCCE016429008D9D6575CB3A2DF598A_0__D2A687F2C18FB52AE2E1EEDB04C9C77170CD0FC3.udd" 1679
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__BBE6AC1ADE65EE988161E1412C57E3F88174E6E2.udd" 1680
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__D15C98456623C6C3BCC0ECDFC5974B6BDD0D448E.udd" 1681
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__00BD96E3D4B0209194F30AC4FF54B8401CAFEB15.udd" 1682
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5E28525480F8268BF36ABA7EBDFC__D4A89CA09F54473C731C25FAB8E0491229BB809A.udd" 1683
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_BD2910D742B4B4778E3374B97767851__E69EE508FA94BF3EEE67C83922A88EFE39DBAF6C.udd" 1684
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_72107D3F4110EAEF3BE5D5841EFE141__667DBC4EE3FBFFDBAEAAA66B7B28EAC8555CA760.udd" 1685
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_4963A1D64E358284C2A151B90C2ACE2__3FEC1C88EAA84D94442D43E61541285427A88EB7.udd" 1686
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_70FBE2144E9E03B3586828844F8F9E3__89DA69BBD08299B2B8190D3523A9FE143EA1E3D1.udd" 1687
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1688
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__536E815204A7A55A1C3DC28912842A9998DC951D.udd" 1689
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__E711B9F5E3FE93BF616817FF2150AFFDB1723C2E.udd" 1690
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F562DDF94D8D885AE92078A9DD770__A885F07B0952CD16CE13DADC3D75FAA72804CE9A.udd" 1691
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1692
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3F3B1DD44FE006226A690596DBDDE__A8F0AA4345DA63B02C5E76E8CDD15A76D906C9DE.udd" 1693
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3F3B1DD44FE006226A690596DBDDE__124F7D8D2718E263E1691CDD9F88C4222659C194.udd" 1694
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1695
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C200B7694C3FE53EBCE97592F5F41__DD39719A926D99A62CA71ADAF4DFF27A49AEF98C.udd" 1696
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1697
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_C49FDA8C4EFE04B87EBA5CB5A57D2__068B523AE52B2D61E14EDFB3764754121E26AA52.udd" 1698
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1699
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_80A9E59646847B4846ED6DAF42DFE__5B70D57A8D534632E772B83FEBF7B027FF5B8388.udd" 1700
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_80A9E59646847B4846ED6DAF42DFE__308ACB6CF9A852BC5B9B8DC8909BB87E9FB70BD3.udd" 1701
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1702
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D5542AFE4886708885DF42B1BE8F6__E8E1BDB0D057288DAED17D58CD776918028D2DCF.udd" 1703
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D5542AFE4886708885DF42B1BE8F6__E1EF18F9937084B0C07D23A905483B754F02B379.udd" 1704
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1705
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_7BBBF743419EE004ACC16E9959BCC__756112131578C37DFF9953878E2BB3763ED27608.udd" 1706
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1707
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_5FF2868842E6DED8A4C0CB8217190__C44A22A45D6E1E0CCC23391DA16ECB5C18F2849C.udd" 1708
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1709
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_8F68DA7846EE5B1FF2DDDC9433F817A__F325C467776FB96A53C73FDC4D90FEF3D728BB6F.udd" 1710
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/5/7/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_D07216FC40952418CFE0E28778D79B2__422D53FE178FC34BB42388E8C8BBA0081D0925B8.udd" 1711
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_0334AFB24D2E5AA9081F9BAFF9F95EE__316A7055C3771D170C38374082DB6A59D3BB0F37.udd" 1712
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_2140CA5B4637C285519D6D91BA9973B__235668F39356976AB0D9EBDFDAF734E65889F31A.udd" 1713
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 1714
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_8A9D9D2A48FA9339997AE79343CFD87__3E577C6AED84B208456981A624A1518DE5428856.udd" 1715
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1716
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_4957CBA74161F467DABFBE98D2CA62A__C19556BA4C92501D87D9D7F9DEC5C2AF1407EA99.udd" 1717
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1718
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 1719
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 1720
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 1721
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/0/4/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__E15E2621F981FAF422F1350C3C351B8AD74CB72B.udd" 1722
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 1723
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 1724
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 1725
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 1726
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/9/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__6D90CB6BB3435F779D51603800CD735E5926BFC4.udd" 1727
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1728
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 1729
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 1730
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 1731
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 1732
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_BCE8FE5741A00FEBD2B9A5B20374AA1__84042F32C9834D75B6BC48C335755648A004EF7E.udd" 1733
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1734
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1735
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1736
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1737
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1738
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__1505695EACEF450B2360F157025789324808F0DA.udd" 1739
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__19C07A42E8FFF97ABC69C34699A576D945BD4355.udd" 1740
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__47F65D18336D505959807819EE470740C5B0779E.udd" 1741
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_A1C52E6A43A1109B0752B4B5980EA23D__13B1A9B7BAD5E041E94F1297BAC2994831BCC747.udd" 1742
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__79EA3066C05F876B5B83AAF3F2792679C0B0BD18.udd" 1743
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__7E6587768D291C2DD39DBF683F7B093F6EEEA5B0.udd" 1744
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__A0C5FAA70C9D1F7FBDCF20FBA9C2B95CACCFBAC6.udd" 1745
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__9209AC813937D05A33648E084F51F5CDEDFAA6F7.udd" 1746
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_3648AA2A4A658DE90371B081D8DC7__9024C3FF7AA8FAC8E5F28E06510B42EAEFCD0F19.udd" 1747
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__389E3E4629443564C58A30B0EE957E4A834EE893.udd" 1748
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__3DBDECE29606A698D5C4A0999706EDB1D150A05A.udd" 1749
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__728CB71FAFD2E4C073DBD859949037CB00598117.udd" 1750
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_91A201FE4781221C42DEDE91696E4__10B419121147129CD66800CC97EDE0AD2FF2BC3B.udd" 1751
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1752
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1753
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 1754
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 1755
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 1756
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/0/MATSM_DBBC4FB34C0F423698AA0729642543E3_GLSL_ES2_WEBGL_16701__BC5N_NOCCBN_DEV_S__50E2CD8F8C77517E78C6EB0B3DD638162A16B76F.udd" 1757
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1758
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__BD16FC101E1BD76B745E50F5F0797E81521ECE50.udd" 1759
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__750E7BCF3B0A4D07B3E732ACF4661AE1B9FDC2C2.udd" 1760
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__0D4C4BDB3A0A12F9E8F8362AC007EA958A932054.udd" 1761
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_9F8FBEF84A1997E30FD384955E3D8__DC3244ED1DA22A9DFBF8BB794FFE6F9D436D1D74.udd" 1762
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1763
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__7741C2B795775BFA3104662CBC48EFE5FD9B7782.udd" 1764
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__CE9E8C2753F09B87FABEC48764BCDF5C0418506D.udd" 1765
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__B5858B18ACEB8D7AEB6A29EACA75015ECEE0FAB6.udd" 1766
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/4/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_119D9D384F916FB5612DEB85B0124__B6179C1D92F62425940B03B442B5BB2F36D1378A.udd" 1767
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Gulfcoast/Gulfcoast2.uasset" 1768
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-07-3.uasset" 1769
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_06A04135044DBC5009E3158DFC8C7__6A34EF2A2D664FF97754403CC591869C019ACC0B.udd" 1770
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/AttackPhase2.uasset" 1771
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/Games/AttackPhase.uasset" 1772
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/WidgetDrag.uasset" 1773
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/Rotation.uasset" 1774
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/Inventory.uasset" 1775
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/HUD.uasset" 1776
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/DragAndDrop/ActionBar.uasset" 1777
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/SmallCannonCone.uasset" 1778
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/SabinePass.uasset" 1779
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Sabine-Pass_map-01-resized-2.uasset" 1780
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_DDAD84B1AE45829F8E4DED83A281D68__CE81F1281BF199ABEBE39D6417ED403583F7D91B.udd" 1781
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/LongCone.uasset" 1782
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/LargeCannonCone.uasset" 1783
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/GalvestonGame.uasset" 1784
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Widgets/EvaluationScreen.uasset" 1785
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Maps/Galveston.umap" 1786
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Scouts/cavalry-horse.uasset" 1787
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/MainImages/Equipment-01-resized.uasset" 1788
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_38E77956C74DBE27C9F6C18CB905483__25D36A742F5937405E6DAAC8370B6AFA30F90254.udd" 1789
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-07-2.uasset" 1790
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/gulfcoast.uasset" 1791
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_56DD6DDE484F5D4302C94B802454B48__D8302B4CEF01D2497A4837A588B5DD9D71051A93.udd" 1792
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-03-2.uasset" 1793
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_8340CB5C3A456CA60B6698BF4518FDA__B47D4CAE55116BD16D24F0F992F52534538B5BAE.udd" 1794
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/GalvestonSequence/texas-gulf-coast-00-2.uasset" 1795
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_D0230D780540E354241B0F8AA4B1704__89FAE999008C880750CC4704C916B9639410A10A.udd" 1796
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/TheCone.uasset" 1797
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_BFBE14C53F4B257D12CB5EBF4EECB__9EC786ED0D84E3C31374FF0360F07EB0A07198CC.udd" 1798
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/shortCone.uasset" 1799
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_5F0A0C0FAC47D2E5C7F752B57695BF8__BE85F978D0DDF7BCD9F93E5882F3D99F340D42C6.udd" 1800
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Cone2.uasset" 1801
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_A3511E047C4789819FADE483EA00CF1__E9576CDDA014E857654194524FDF20AC297E3CD2.udd" 1802
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Cones/Cone.uasset" 1803
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/ButtonImages/start_screen_button_with_text-01.uasset" 1804
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/7/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EBD14CB12F4338A7FCBE6F903C987__1B869A4DD547ADAA9AEF82906342E9403BAC3FBA.udd" 1805
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_641B9C61314402C1245765A65B39C02__410851FC1EB57F7F204135D73C950FA7CCD21B0F.udd" 1806
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/Attack/Galveston_attack_map_with_key.uasset" 1807
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Content/Images/galveston_plotted_points.uasset" 1808
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_D4C3205DC24DD5E58CF2D4A932361CD__EFD23CE5CE4FF50B575BC74D306054C38B92984B.udd" 1809
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1810
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_549FF2B3ED4832939DAC5BB5D7D90__D7265F73FEFE46F3684C15B54CB56FEA80ACB922.udd" 1811
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1812
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_RGBA8_A4535AA24BB699361857049E2A844B2__392B86882A1FAA09C71BFBD25E66F43BF069C1AA.udd" 1813
+"/Users/AustinMack/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2E1EE3B14D43A62B84881B8F5AAD2__BB99884E9A5449D24496CD2D2CB314E5330C09E0.udd" 1814
+"../../../../../../AustinMack/Desktop/WarOfTheRebellionApp/Saved/Collections/PackagesRemovedFromChunk0.collection" 1815
